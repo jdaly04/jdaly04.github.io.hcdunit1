@@ -1,5 +1,19 @@
-h1{
+h1 {
 	font-family: Trebuchet MS;
-	font-size: 40px;
+	font-size: 60px;
 	font-weight: bold;
+	text-align: center;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+p {
+	text-align: center;
+	font-family: Trebuchet MS;
+	font-size: 18px;
+}
+body {
+	background-color: #FFFFF0;
+	color: #3CB371;
 }
